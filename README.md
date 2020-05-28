@@ -1,2 +1,2 @@
-# test-pwa
-this repo is test for PWA
+# WHATWG-Standards
+this repo for test and learn about WHATWG Standards https://spec.whatwg.org/
